@@ -1,7 +1,7 @@
 Hi! 
 Introduction: We are Team Thomas Greville, with members:
 
-Yazda Cokgor (yscokgor@berkeley.edu, GIT username: yscokgor), Amanda Neslund (amandaneslund@berkeley.edu, GIT username: ), and Angel Jenita Prasad (ap5473@berkeley.edu, GIT username: )
+Yazda Cokgor (yscokgor@berkeley.edu, GIT username: yscokgor), Amanda Neslund (amandaneslund@berkeley.edu, GIT username: amandaneslund), and Angel Jenita Prasad (ap5473@berkeley.edu, GIT username: angelprasad )
 
 Topic & Goals: Our topic is the analysis of AIDS/ HIVs in Botswana.
 
