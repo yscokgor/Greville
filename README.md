@@ -11,4 +11,4 @@ How to Navigate:
 Population tables are in Greville_group_code
 info on agriculture and economy are in Untitled2
 Info on sex/ other info in Proj1_code 
-(sorry they r everywhere we didnt get a chance to put all together yet...)
+
