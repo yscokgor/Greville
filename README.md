@@ -8,7 +8,5 @@ Topic & Goals: Our topic is the analysis of AIDS/ HIVs in Botswana.
 Our project focused on analyzing the effect of AIDS/  HIV on populations, the difference in AIDS/ HIV prevelance on the sexes, on agriculture and exploring why this may be the case and how it differs in opposed to Zimbabwe.
 
 How to Navigate: 
-Population tables are in Greville_group_code
-info on agriculture and economy are in Untitled2
-Info on sex/ other info in Proj1_code 
+Check Out Greville_group_code_Final for all of our work!
 
